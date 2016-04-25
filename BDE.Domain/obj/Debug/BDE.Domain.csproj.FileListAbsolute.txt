@@ -1,0 +1,9 @@
+D:\Projects\Black Diamond\BDE.Domain\bin\Debug\BDE.Domain.dll
+D:\Projects\Black Diamond\BDE.Domain\bin\Debug\BDE.Domain.pdb
+D:\Projects\Black Diamond\BDE.Domain\bin\Debug\Iesi.Collections.dll
+D:\Projects\Black Diamond\BDE.Domain\bin\Debug\NHibernate.dll
+D:\Projects\Black Diamond\BDE.Domain\bin\Debug\Iesi.Collections.xml
+D:\Projects\Black Diamond\BDE.Domain\bin\Debug\NHibernate.xml
+D:\Projects\Black Diamond\BDE.Domain\obj\Debug\BDE.Domain.dll
+D:\Projects\Black Diamond\BDE.Domain\obj\Debug\BDE.Domain.pdb
+D:\Projects\Black Diamond\BDE.Domain\obj\Debug\BDE.Domain.csprojResolveAssemblyReference.cache
